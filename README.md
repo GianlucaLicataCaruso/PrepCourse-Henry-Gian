@@ -1,2 +1,2 @@
-# PrepCourse-Henry-Gian
-Repositorio de prueba
+Este proyecto es una prueba de como crear un repositorio y guardarlo.
+
